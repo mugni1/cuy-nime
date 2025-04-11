@@ -16,7 +16,7 @@ export default function Page() {
           MyCollections
         </h1>
       </div>
-      <div className="grid grid-cols-2 md:grid-cols-5 gap-5">
+      <div className="grid grid-cols-2 md:grid-cols-4 xl:grid-cols-5 gap-5">
         {/* card  */}
         <div className="columns-1 h-80 bg-secondary relative rounded-lg overflow-hidden">
           <img
